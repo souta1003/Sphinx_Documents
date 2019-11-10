@@ -12,5 +12,5 @@
    :glob:
 
    src/Julia/Julia_Doc1
-   src/2
+   src/git/git_Doc1
 =========================
