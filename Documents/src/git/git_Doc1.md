@@ -1,5 +1,21 @@
 # git 備忘録
 
+## gitコマンドでgithubにpushするまで(簡潔版)
+
+1. ファイルをステージに追加
+```
+git add . // すべてのファイル、ディレクトリ
+```
+
+2. ファイルをコミット
+git commit -m "コミット文"
+
+3. リモートにプッシュ
+git push origin master  //masterを更新
+
+### 参考サイト
+- [【Git】基本コマンド](https://qiita.com/konweb/items/621722f67fdd8f86a017)
+
 ## リモートのファイルを消す方法
 
 1. ファイルを消す
